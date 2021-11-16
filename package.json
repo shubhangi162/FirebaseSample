@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "aws-sdk": "^2.601.0",
+    "aws-sdk": "^2.814.0",
     "bluebird": "^3.7.2",
     "express": "^4.17.1",
     "file-type": "^13.0.3",
